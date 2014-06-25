@@ -28,7 +28,7 @@ no_index:
 provides:
   Acme::MilkyHolmes:
     file: lib/Acme/MilkyHolmes.pm
-    version: '0.01'
+    version: '0.02'
   Acme::MilkyHolmes::Character:
     file: lib/Acme/MilkyHolmes/Character.pm
   Acme::MilkyHolmes::Character::AliceMyojingawa:
@@ -66,5 +66,5 @@ resources:
   bugtracker: https://github.com/tsucchi/p5-Acme-MilkyHolmes/issues
   homepage: https://github.com/tsucchi/p5-Acme-MilkyHolmes
   repository: git://github.com/tsucchi/p5-Acme-MilkyHolmes.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:TSUCCHI

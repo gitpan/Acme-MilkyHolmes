@@ -65,7 +65,7 @@
    "provides" : {
       "Acme::MilkyHolmes" : {
          "file" : "lib/Acme/MilkyHolmes.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "Acme::MilkyHolmes::Character" : {
          "file" : "lib/Acme/MilkyHolmes/Character.pm"
@@ -112,6 +112,6 @@
          "web" : "https://github.com/tsucchi/p5-Acme-MilkyHolmes"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:TSUCCHI"
 }
