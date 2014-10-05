@@ -4,7 +4,7 @@
       "Takuya Tsuchida <tsucchi@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v1.0.0",
+   "generated_by" : "Minilla/v2.1.1",
    "license" : [
       "perl_5"
    ],
@@ -66,7 +66,7 @@
    "provides" : {
       "Acme::MilkyHolmes" : {
          "file" : "lib/Acme/MilkyHolmes.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       },
       "Acme::MilkyHolmes::Character" : {
          "file" : "lib/Acme/MilkyHolmes/Character.pm"
@@ -113,6 +113,9 @@
          "web" : "https://github.com/tsucchi/p5-Acme-MilkyHolmes"
       }
    },
-   "version" : "0.03",
-   "x_authority" : "cpan:TSUCCHI"
+   "version" : "0.04",
+   "x_authority" : "cpan:TSUCCHI",
+   "x_contributors" : [
+      "htk291 <htk0129@gmail.com>"
+   ]
 }

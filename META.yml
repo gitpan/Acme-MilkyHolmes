@@ -10,7 +10,7 @@ configure_requires:
   CPAN::Meta::Prereqs: '0'
   Module::Build: '0.38'
 dynamic_config: 0
-generated_by: 'Minilla/v1.0.0, CPAN::Meta::Converter version 2.141170'
+generated_by: 'Minilla/v2.1.1, CPAN::Meta::Converter version 2.141170'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -29,7 +29,7 @@ no_index:
 provides:
   Acme::MilkyHolmes:
     file: lib/Acme/MilkyHolmes.pm
-    version: '0.03'
+    version: '0.04'
   Acme::MilkyHolmes::Character:
     file: lib/Acme/MilkyHolmes/Character.pm
   Acme::MilkyHolmes::Character::AliceMyojingawa:
@@ -67,5 +67,7 @@ resources:
   bugtracker: https://github.com/tsucchi/p5-Acme-MilkyHolmes/issues
   homepage: https://github.com/tsucchi/p5-Acme-MilkyHolmes
   repository: git://github.com/tsucchi/p5-Acme-MilkyHolmes.git
-version: '0.03'
+version: '0.04'
 x_authority: cpan:TSUCCHI
+x_contributors:
+  - 'htk291 <htk0129@gmail.com>'
