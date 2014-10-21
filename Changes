@@ -1,8 +1,12 @@
 Revision history for Perl extension Acme-MilkyHolmes
 
+0.05 2014-10-21T13:04:48Z
+
+    - POD fix(htk291)
+
 0.04 2014-10-05T14:53:43Z
 
-    - new feature: nickname_voiced_by() (htk293)
+    - new feature: nickname_voiced_by() (htk291)
 
 0.03 2014-06-25T14:18:04Z
 
